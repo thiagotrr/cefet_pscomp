@@ -80,13 +80,13 @@ include('php_src/header.php');
       		<td>Sala</td>
       		<td>SLum_1</td>
       		<td>Luminosidade Ambiente</td>
-      		<td>200 lumens</td>
+      		<td id="Slum_1">200 lumens</td>
       	</tr>
       	<tr>
       		<td>Quarto Casal</td>
       		<td>STemp_1</td>
       		<td>Temperatura</td>
-      		<td>28°C</td>
+      		<td id="STemp_1">28°C</td>
       	</tr>
       </table>
       <hr>
