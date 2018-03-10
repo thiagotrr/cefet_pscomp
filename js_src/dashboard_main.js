@@ -1,0 +1,7 @@
+/**
+ * 
+ */
+
+function switch(var status){
+	
+}
