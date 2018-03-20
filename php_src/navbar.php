@@ -10,10 +10,10 @@
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="#">Home</a></li>
-				<li><a href="#">Menu 2</a></li>
-				<li><a href="#">Menu 3</a></li>
-				<li><a href="#">Menu 4</a></li>
+				<li id="m1" class="active"><a href="#">Home</a></li>
+				<li id="m2" ><a href="#">Menu 2</a></li>
+				<li id="m3" ><a href="#">Menu 3</a></li>
+				<li id="m4" ><a href="#">Menu 4</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#"><span class="glyphicon glyphicon-log-in"></span>
